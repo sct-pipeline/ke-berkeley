@@ -9,18 +9,18 @@ The dataset should be organized according to BIDS structure:
 
 ~~~
 DATA/
-└──	data/
-		└── sub-01
-		    |── anat
-		    |   └── sub-01_T2w.nii.gz
-				|		└── sub-01_T2w.json
-		    |   └── sub-01_survey.nii.gz
-				|		└── sub-01_survey.json
-		    └── dwi
-		        └── sub-01_dwi.nii.gz
-		        └── sub-01_dwi.json
-		        └── sub-01_dwi.bval
-		        └── sub-01_dwi.bvec
+└── data/
+    └── sub-01
+        |── anat
+        |   └── sub-01_T2w.nii.gz
+        |   └── sub-01_T2w.json
+        |   └── sub-01_survey.nii.gz
+        |   └── sub-01_survey.json
+        └── dwi
+            └── sub-01_dwi.nii.gz
+            └── sub-01_dwi.json
+            └── sub-01_dwi.bval
+            └── sub-01_dwi.bvec
 ~~~
 
 ## Installation
