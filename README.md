@@ -1,5 +1,6 @@
 # ke-berkeley
-Pipeline to process DWI data
+Pipeline to process DWI data. This pipeline assumes that DWI scans are centered
+at C6 vertebral levels.
 
 ## Requirements
 
